@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Main1711es1 {
 		public static void main (String[] args) {
+			System.out.print("Ciaooooooooooooo");
 			Scanner scanner = new Scanner(System.in);
 			System.out.print("Inserisci:\n'1' se vuoi inserire un numero\n'2' se vuoi terminare il programma\n ");
 			int inizia = scanner.nextInt();
